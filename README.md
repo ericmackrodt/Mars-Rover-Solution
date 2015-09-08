@@ -2,11 +2,11 @@ Mars Rover solution
 ===================
 
 Solution started being developed at 9/9 1:00AM.
-This is the solution for the Mars Rover problem. It was developed usint Java Script and the only external library used was QUnit for unit tests.
+This is the solution for the Mars Rover problem. It was developed using Java Script and the only external library used was QUnit for unit tests.
 
 Assumptions
 -----------
-1. As it wasn't specified, I didn't treat errors.
+1. As it wasn't specified, I didn't treat exceptions.
 2. I assumed that each rover would have it's turn on the plateau as the exercise didn't ask for collision treatment.
 
 Explanation of the Solution:
